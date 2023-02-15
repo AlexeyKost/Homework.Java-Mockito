@@ -1,4 +1,4 @@
-package org.example;
+package Manager;
 
 public class Manager {
     private String[] movies = new String[0];
